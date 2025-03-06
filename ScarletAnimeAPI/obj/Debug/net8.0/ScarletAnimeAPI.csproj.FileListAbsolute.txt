@@ -9,21 +9,18 @@ C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.AspNetCo
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
-C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
-C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\MySqlConnector.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Pomelo.EntityFrameworkCore.MySql.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.csproj.AssemblyReference.cache
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.GeneratedMSBuildEditorConfig.editorconfig
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.AssemblyInfoInputs.cache
@@ -45,3 +42,4 @@ C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\refint\ScarletAnim
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.pdb
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.genruntimeconfig.cache
 C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ref\ScarletAnimeAPI.dll
+C:\MangaFree\ScarletAnimeAPI\ScarletAnimeAPI\obj\Debug\net8.0\ScarletAnimeAPI.sourcelink.json

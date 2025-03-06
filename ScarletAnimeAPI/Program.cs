@@ -1,6 +1,7 @@
 using Pomelo.EntityFrameworkCore.MySql.Infrastructure;
 using Microsoft.EntityFrameworkCore;
 using ScarletAnimeAPI;
+using ScarletAnimeAPI.Services;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -13,7 +14,7 @@ builder.Services.AddDbContext<AppDbContext>(option => option.UseMySql(
         errorNumbersToAdd: null)
 ));
 
-
+builder.Services.AddScoped<TitleService>();
 
 builder.Services.AddCors(options =>
 {

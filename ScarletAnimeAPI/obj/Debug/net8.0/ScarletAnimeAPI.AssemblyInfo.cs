@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ScarletAnimeAPI")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e10baf020e86dfccc57bc075a1871a9fbe80e02")]
 [assembly: System.Reflection.AssemblyProductAttribute("ScarletAnimeAPI")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ScarletAnimeAPI")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
